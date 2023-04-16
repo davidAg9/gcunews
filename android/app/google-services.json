@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911781856678",
+    "project_id": "gctu-news-d1cb8",
+    "storage_bucket": "gctu-news-d1cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911781856678:android:0fc8b1bf4a8daf37b03b67",
+        "android_client_info": {
+          "package_name": "com.davidagyakwa.gctublogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911781856678-rmkl0rjlps3k9gputasv6rg36g6bffov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz84ynGDyZKoDaE_yA1DLIk6v1bEQF9Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911781856678-rmkl0rjlps3k9gputasv6rg36g6bffov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
